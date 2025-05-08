@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "mcp-test",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bfa91799-f1bd-42bd-8b8e-2fd51d4b4e15",
+      "database_name": "sparkling-silence-2223-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
